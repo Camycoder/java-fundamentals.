@@ -9,7 +9,7 @@ import java.util.Locale;
 public class CalculadoraFuncionario {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        
+        sc.useLocale(Locale.US);
 
         int numero, horas;
         double valorHora, salario;
