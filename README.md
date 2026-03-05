@@ -1,2 +1,2 @@
 # Jornada registrada em Java
-Este é um repositório dedicado aos fundamentos de Java e lógica de programação.
+Este é um repositório dedicado aos fundamentos de Java e lógica de programação.Aqui registro cada desafio superado, desde condicionais simples até algoritmos complexos.
