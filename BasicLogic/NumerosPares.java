@@ -1,5 +1,8 @@
 /* Printa apenas os números pares de 2 até 20.
  */
+
+package BasicLogic;
+
 public class NumerosPares {
 
     public static void main(String[] args) {

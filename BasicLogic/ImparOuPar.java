@@ -1,4 +1,7 @@
 /*Fazer um programa para ler um número inteiro e dizer se este número é par ou ímpar. */
+
+package BasicLogic;
+
 import java.util.Scanner;
 
 public class ImparOuPar {

@@ -1,5 +1,7 @@
 /*Peça um número ao usuário e printa a tabuada dele de 1 até 10. */
 
+package BasicLogic;
+
 import java.util.Scanner;
 
 public class Tabuada {

@@ -9,6 +9,9 @@
  * - default: Exibir "Acesso negado: Nível de usuário não identificado."
  */
 
+
+package BasicLogic;
+
 import java.util.Scanner;
 
     public class ControleDeAcesso {

@@ -14,6 +14,10 @@
  * Caso contrário, imprima o valor do imposto com duas casas decimais.
  */
 
+
+
+package BasicLogic;
+
 import java.util.Scanner;
 
 public class CalculoImposto {

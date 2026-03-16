@@ -1,5 +1,6 @@
 /*Printa os números de 1 até 100. */
 
+package BasicLogic;
 
 public class PrintandoNumero {
     

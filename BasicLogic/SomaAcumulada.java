@@ -2,6 +2,8 @@
 */
 
 
+package BasicLogic;
+
 public class SomaAcumulada {
   public static void main(String[] args) {
     

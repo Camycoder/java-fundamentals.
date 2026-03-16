@@ -3,6 +3,8 @@ hora e calcula o salário desse funcionário. A seguir, mostre o número e o sal
 decimais. */
 
 
+package BasicLogic;
+
 import java.util.Scanner;
 import java.util.Locale;
 

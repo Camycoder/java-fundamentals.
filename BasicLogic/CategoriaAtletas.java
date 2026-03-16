@@ -18,6 +18,9 @@
  * - Certifique-se de tratar os limites de idade corretamente (ex: quem tem 17 anos).
  */
 
+
+package BasicLogic;
+
 import java.util.Scanner;
 
 public class CategoriaAtletas {

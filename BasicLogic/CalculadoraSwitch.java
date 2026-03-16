@@ -1,10 +1,13 @@
-
 /*
  * EXERCÍCIO: Mini Calculadora Aritmética
  * * OBJETIVO:
  * Leia dois números (double) e um símbolo de operação (char: +, -, *, /).
  * Utilize o SWITCH-CASE para realizar o cálculo correspondente.
  */
+
+
+package BasicLogic;
+
 
 import java.util.Locale;
 import java.util.Scanner;

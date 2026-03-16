@@ -2,6 +2,9 @@
 seguintes intervalos ([0,25], (25,50], (50,75], (75,100]) este valor se encontra. Obviamente se o valor não estiver em
 nenhum destes intervalos, deverá ser impressa a mensagem “Fora de intervalo”. */
 
+
+package BasicLogic;
+
 import java.util.Scanner;
 
 public class IntervaloNumero {

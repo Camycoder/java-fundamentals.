@@ -6,6 +6,7 @@
  * - Praticar: Scanner, While, Switch-Case e If/Else.
  */
 
+package BasicLogic;
 
 import java.util.Scanner;
 

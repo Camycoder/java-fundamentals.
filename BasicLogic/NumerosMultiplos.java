@@ -2,6 +2,8 @@
 Multiplos", indicando se os valores lidos são múltiplos entre si. Atenção: os números devem poder ser digitados em
 ordem crescente ou decrescente. */
 
+package BasicLogic;
+
 import java.util.Scanner;
 
 public class NumerosMultiplos {

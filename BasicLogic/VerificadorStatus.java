@@ -2,6 +2,7 @@
 Enunciado: Leia um valor booleano estaAtivo. Use o operador ternário para armazenar em uma String a mensagem "Acesso Permitido" (se true) ou "Acesso Bloqueado" (se false).
 */
 
+package BasicLogic;
 
 import java.util.Scanner;
 

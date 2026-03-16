@@ -1,7 +1,10 @@
 /*Peça o preço de 5 produtos, some tudo e aplique:
 10% de desconto se o total passar de R$100
 Printa o total com e sem desconto */
-package LogicProgramming;
+
+
+package BasicLogic;
+
 import java.util.Scanner;
 
 public class CaixaRegistradora {
