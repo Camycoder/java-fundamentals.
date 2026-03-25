@@ -1,0 +1,1 @@
+Neste projeto, meu foco não foi só fazer a conta de matemática (o Java faz isso rápido). O desafio real foi aprender a organizar o código. Usei classes e objetos para que o sistema não fosse apenas um amontoado de linhas, mas algo arrumado, fácil de entender e pronto para crescer se eu quiser adicionar mais funções depois
